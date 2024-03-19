@@ -2,7 +2,7 @@
 Experiments performed during the lab
 Sr. No.	Title of Experiment
 	
-  Experiment no 1:  First Flutter App
+        Experiment no 1:  First Flutter App
 	To design a basic layout of Flutter App using Scaffold widget (Snack-Bar, Bottom-Navigation-Bar, Floating-Action-Button, App-Bar)
 	
 	
@@ -10,7 +10,7 @@ Sr. No.	Title of Experiment
 	To include icons, images, Text, TextStyle, Font, Image, Assets, Icons, Padding, and Center  in Flutter app
 	
 	
-  Experiment No 3: Profile Page App
+        Experiment No 3: Profile Page App
 	To develop a profile page feature for our Flutter application (Stateful)
 	Few new widgets such as Padding, Margin, FloatingActionButton.
 	onPress activity
